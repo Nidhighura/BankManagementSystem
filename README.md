@@ -1,11 +1,11 @@
-                                                                              🏦 **Bank Management System**
+# 🏦 Bank Management System
 
 
 The Bank Management System is a Java Swing-based desktop application that simulates basic banking operations. Users can create accounts, deposit and withdraw money, perform fast cash transactions, check balances, and view mini statements. It uses MySQL for backend data storage.
 
 Click here to see screenshots/demo: (Add GitHub Pages link or GIF here)
 
-    🌟 Features
+# 🌟 Features
 
 - Secure Login: Access using card number and PIN.
 
@@ -25,7 +25,7 @@ Click here to see screenshots/demo: (Add GitHub Pages link or GIF here)
 
 - Responsive & Intuitive GUI: Clean interface built with Java Swing.
 
-      🛠️ Technologies Used
+# 🛠️ Technologies Used
 
 - Java (JDK 8+) – Core application logic.
 
@@ -37,7 +37,7 @@ Click here to see screenshots/demo: (Add GitHub Pages link or GIF here)
 
 - NetBeans / IntelliJ IDEA – IDE for development.
 
-      🚀 How to Use
+#🚀 How to Use
 
 Follow these steps to set up and run the Bank Management System:
 
@@ -45,7 +45,7 @@ Follow these steps to set up and run the Bank Management System:
 
 Clone the project to your local machine:
 
-git clone https://github.com/your-username/Bank-Management-System.git
+    git clone https://github.com/your-username/Bank-Management-System.git
 
 2. Set Up the Database
 
