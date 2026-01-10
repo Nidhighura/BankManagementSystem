@@ -67,11 +67,11 @@ bank → stores all transactions
 
 Open conn.java and update your MySQL username and password:
 
-c = DriverManager.getConnection(
+    c = DriverManager.getConnection(
     "jdbc:mysql://localhost:3306/bankmanagementsystem",
     "root",
     "your_password_here"
-);
+    );
 
 4. Run the Application
 
