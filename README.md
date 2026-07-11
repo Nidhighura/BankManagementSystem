@@ -86,3 +86,6 @@ Create a new branch for your changes.
 Test your feature or fix.
 
 Submit a pull request to the main repository.
+
+<img width="916" height="690" alt="image" src="https://github.com/user-attachments/assets/cd022856-35be-4cfd-91af-4af4d208dd06" />
+
