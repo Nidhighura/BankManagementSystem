@@ -1,4 +1,4 @@
-# 🏦 Bank Management System
+# 🏦NovaTrust Bank
 
 
 The Bank Management System is a Java Swing-based desktop application that simulates basic banking operations. Users can create accounts, deposit and withdraw money, perform fast cash transactions, check balances, and view mini statements. It uses MySQL for backend data storage.
